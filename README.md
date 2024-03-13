@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts![photo](https://github.com/subhamyadav01/ERP-Frontend/assets/90240318/4b9939db-3885-4b3c-9097-cbf3ce1e2d29)
+
 
 In the project directory, you can run:
 
